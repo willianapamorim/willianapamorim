@@ -1,47 +1,85 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfFF&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Eu+sou+Willian+Amorim;Tenho+21+anos;Curso+Análise+e+Desenvolvimento+de+Sistemas+;Bem+vindo!+:%29)](https://git.io/typing-svg)
+# Olá, eu sou o Willian Amorim 👋
+### **Engenheiro de Dados | Pipelines de Dados • Lakehouse • Arquiteturas em Tempo Real**
 
-<div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=willianapamorim&show_icons=true&count_private=true&hide_border=true&title_color=00bfFF&icon_color=00bfFF&text_color=ffffff&bg_color=0d1117" alt="Willian Amorim github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianapamorim&layout=compact&hide_border=true&title_color=00bfFF&text_color=ffffff&bg_color=0d1117" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willianapamorim)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian.amorim@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willianapamorim)
+
+---
+
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willianapamorim&bg_color=0d1117&color=00bfff&line=00BFFF&point=0000ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📌 Sobre Mim
 
- <h2 align="left">
-  Habilidades que domino
-</h2>
+**Engenheiro de Dados** focado no desenvolvimento de **plataformas de dados escaláveis**, **pipelines em lote e streaming (batch & real-time)** e **arquiteturas de dados modernas**. 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+Movido por impacto direto nos negócios, transformo dados brutos e fragmentados em Data Warehouses e Lakehouses performáticos e confiáveis, viabilizando análises avançadas e tomadas de decisões estratégicas.
+
+- ⚙️ **Especialidades:** ELT/ETL End-to-End, Processamento de Streaming, Arquitetura Data Lakehouse, Modelagem de Dados.
+- 🎯 **Foco em Engenharia:** Alta Confiabilidade, Otimização de Consultas (Baixa Latência), Observabilidade e Governança de Dados.
+- 💡 **Paixão:** Resolver gargalos complexos de arquitetura e construir sistemas distribuídos resilientes.
+
+---
+
+## 🛠️ Ecossistema Técnico
+
+| Categoria | Tecnologias & Ferramentas |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) |
+| **Processamento & Streaming** | ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white) |
+| **Orquestração & Modelagem** | ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Dagster](https://img.shields.io/badge/Dagster-4D430C?style=flat-square&logo=dagster&logoColor=white) |
+| **Data Warehousing & Storage** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) |
+| **Arquitetura Lakehouse** | ![Delta Lake](https://img.shields.io/badge/Delta_Lake-000000?style=flat-square&logo=delta&logoColor=white) ![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-008080?style=flat-square&logo=apache&logoColor=white) |
+| **Plataformas Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
+
+---
+
+## 🚀 Pilares de Engenharia
+
+```
++-----------------------------------------------------------------------------------+
+|                           ARQUITETURA DE PIPELINE DE DADOS                        |
++-----------------------------------------------------------------------------------+
+  [ Fontes de Dados ] ---> [ Ingestão (Kafka / Airflow) ] ---> [ Processamento (Spark) ]
+                                                                       |
+  [ Analytics / BI ]  <--- [ Data Warehouse / Lakehouse ] <--- [ Armazenamento (Delta/Iceberg) ]
++-----------------------------------------------------------------------------------+
+```
+
+### 1. **Ingestão de Dados Batch e em Tempo Real**
+Construção de frameworks de ingestão resilientes, lidando com fluxos de eventos em escala de terabytes (Kafka/Flink) e cargas em lote com mecanismos automatizados de reprocessamento e controle de falhas.
+
+### 2. **Arquitetura de Data Lakehouse Moderna**
+Implementação de Lakehouses com suporte a transações ACID utilizando **Delta Lake** e **Apache Iceberg**, combinando o baixo custo de armazenamento em nuvem com a performance de bancos relacionais.
+
+### 3. **Modelagem de Dados & Engenharia de Analytics**
+Modelagem dimensional otimizada (Star/Snowflake Schema e Data Vault), utilizando **dbt** para transformações modulares, testes automatizados e documentação contínua de linhagem de dados.
+
+---
+
+## 💼 Projetos de Engenharia de Dados em Destaque
+
+| Projeto | Stack | Visão Geral | Impacto |
+| :--- | :--- | :--- | :--- |
+| 🔹 **[Pipeline Realtime End-to-End](https://github.com/willianapamorim)** | Kafka • Flink • Iceberg • Spark | Motor de processamento de dados em tempo real com latência analítica sub-segundo. | Redução do tempo de atualização de relatórios de horas para milissegundos. |
+| 🔹 **[Data Lakehouse Empresarial](https://github.com/willianapamorim)** | PySpark • Airflow • Delta Lake • AWS S3 | Lakehouse modular para ingestão de fontes heterogêneas na arquitetura Medalhão (Bronze/Silver/Gold). | Aceleração da performance de consultas SQL em 40%. |
+| 🔹 **[Modern Data Warehouse com dbt](https://github.com/willianapamorim)** | dbt • Snowflake • BigQuery • Airflow | Framework de modelagem dimensional de dados com testes automatizados e linhagem via CI/CD. | Garantia de 99.9% de confiabilidade nos dados para dashboards executivos. |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianapamorim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianapamorim&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
- 
+---
 
-<h2 align="left">
-  Estudando no momento
-</h2>
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+<div align="center">
+  <sub>Desenvolvido com foco e precisão por <b>Willian Amorim</b></sub>
 </div>
-
-###
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
- 
