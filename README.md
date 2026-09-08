@@ -16,7 +16,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=willianapamorim&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-trophies.vercel.app/?username=willianapamorim&theme=darkhub&no-frame=true&row=1&column=6" />
+
 
 </div>
 
@@ -24,7 +25,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=willianapamorim&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=willianapamorim&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
+
 
 </div>
 
