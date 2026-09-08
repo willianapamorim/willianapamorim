@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=willianapamorim&show_icons=true&theme=dark)
+![Snake animation](https://raw.githubusercontent.com/willianapamorim/willianapamorim/output/github-snake-dark.svg)
